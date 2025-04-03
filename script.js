@@ -4,7 +4,7 @@ const products = [
         id: 1,
         name: "XANAX",
         description: "Temporarily boosts cognitive functions by 200%.",
-        price: "2 NC 1pc",
+        price: "2 NC/piece",
         image: "https://filtermag.org/wp-content/uploads/2021/01/Xan-Double-Green-Bar-1.png"
     },
     {
